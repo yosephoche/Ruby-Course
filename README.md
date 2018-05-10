@@ -1,10 +1,10 @@
-1. 
-Buat program yang di dalamnya ada deklarasi 3 variabel. Misal masing-masing namanya adalah :
+1. Buat program yang di dalamnya ada deklarasi 3 variabel. Misal masing-masing namanya adalah :
 - first_name
 - middle_name
 - last_name
    
-Output program ketika dijalankan adalah menggabungkan ketigaa nama tadi dengan nama tengah diambil huruf terdepan saja dan  diberi tanda titik. Selain itu setiap huruf terdepan dari ketiga nama tadi harus huruf kapital dan jarak antar nama adalah satu spasi.
+Output program ketika dijalankan adalah menggabungkan ketigaa nama tadi dengan nama tengah diambil huruf terdepan saja dan  diberi tanda titik.
+Selain itu setiap huruf terdepan dari ketiga nama tadi harus huruf kapital dan jarak antar nama adalah satu spasi.
 
 Contoh :
 first_name = 'agung'
@@ -26,8 +26,7 @@ Kode yang melakukan formatting, dibungkus ke dalam sebuah method ya.
 
 
 
-2.
-Modifikasi program pada nomor 1. Kali ini nilai untuk nama depan, tengah dan belakang dimasukkan oleh user melalui program yang dijalankan lewat terminal. Ketentuan format output sama persis dengan soal nomor 1.
+2. Modifikasi program pada nomor 1. Kali ini nilai untuk nama depan, tengah dan belakang dimasukkan oleh user melalui program yang dijalankan lewat terminal. Ketentuan format output sama persis dengan soal nomor 1.
  
 Contoh:
 ruby program.rb
@@ -37,8 +36,8 @@ Agung K. Setiawan (string ini hasil generate program)
  
  
  
-3. 
-Buat program yang akan mencetak tulisan `Fizz` jika user memasukkan angka yang merupakan kelipatan 3. Mencetak `Buzz` jika angka kelipatan 5 dan mencetak `FizzBuzz` jika angka kelipatan 3 DAN 5
+3. Buat program yang akan mencetak tulisan `Fizz` jika user memasukkan angka yang merupakan kelipatan 3.
+Mencetak `Buzz` jika angka kelipatan 5 dan mencetak `FizzBuzz` jika angka kelipatan 3 DAN 5
  
 Contoh:
 user memasukkan angka 9
@@ -60,7 +59,7 @@ ruby program.rb
 $ Nilai nilai yang ingin dihitung :
 10 12 5 (angka ini dimasukkan user)
 
-Maka output adalah `Nilai rata-ratanya adalah 9
+Maka output adalah Nilai rata-ratanya adalah 9
 
 
 5. Buat program untuk menghitung jumlah huruf yang terdapat pada suatu string yang dimasukkan user. Huruf besar dan kecil dianggap sama.
@@ -86,8 +85,7 @@ r muncul 1 kali
 u muncul 1 kali
 
 
-6.
-Buat program kalkulator menggunakan paradigma OOP.
+6. Buat program kalkulator menggunakan paradigma OOP.
 
 ruby program.rb
 $ Perhitungan:
